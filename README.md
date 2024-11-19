@@ -2,7 +2,7 @@
 
 **이 소스는 카우치베이스 DB(Capella), Sync Gateway(AppService), Couchbase Lite가 어떻게 동작하는지는 보여 주는 데모입니다.** <br>
 
-아래에 설명된 내용은 **MacOS** 환경에서 구현한 내용입니다. 
+아래에 설명된 내용은 카우치베이스 DB(Capella), Sync Gateway(AppService)는 Capella이고, Couchbase Lite(App)는 **MacOS** 환경에서 구현한 내용입니다. 
 <br>Windows나 Linux환경에서 테스트시에는 OS에 종속된 부분은 수정/보완하여 테스트 하십시오. <br>
 
 **관리형 Couchbase(Capella)**를 사용하는 데모이며, <br>
